@@ -1,0 +1,4356 @@
+[
+    {
+        "A": "give up your favorite food forever",
+        "B": "give up sex?",
+        "id": 1,
+        "votes_for_A": 0,
+        "votes_for_B": 2
+    },
+    {
+        "A": "never get a haircut again",
+        "B": "never shave again?",
+        "id": 2,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be unable to use search engines",
+        "B": "unable to use social media?",
+        "id": 3,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "erase your own memories",
+        "B": "erase someone else's memories of you?",
+        "id": 4,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "give up travelling",
+        "B": "celebrating holidays?",
+        "id": 5,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "give up air conditioning and heating for the rest of your life",
+        "B": "give up the internet for the rest of your life?",
+        "id": 6,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "never be able to scratch an itch",
+        "B": "never be able to pop a pimple?",
+        "id": 7,
+        "votes_for_A": 1,
+        "votes_for_B": 1
+    },
+    {
+        "A": "spend a year entirely alone",
+        "B": "a year without a home?",
+        "id": 8,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have to work the most miserable job imaginable for a year",
+        "B": "die one year earlier?",
+        "id": 9,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "give up all drinks except water",
+        "B": "give up eating anything that was cooked in an oven?",
+        "id": 10,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "never be able to go out during the day",
+        "B": "never be able to go out at night?",
+        "id": 11,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "lose the ability to lie",
+        "B": "believe everything you're told?",
+        "id": 12,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be wealthy but only able to walk everywhere",
+        "B": "broke but able to travel anywhere in the world?",
+        "id": 13,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "only be able to wash your hair twice a year",
+        "B": "only be able to check your phone once a day?",
+        "id": 14,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be stranded on a deserted island for five years",
+        "B": "in a coma for a decade?",
+        "id": 15,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "sell all of your possessions",
+        "B": "sell one of your organs?",
+        "id": 16,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be so afraid of heights that you can't go to the second floor of a building",
+        "B": "be so afraid of the sun that you can only leave the house on rainy days?",
+        "id": 17,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be asked the same question over and over again",
+        "B": "never be spoken to ever again?",
+        "id": 18,
+        "votes_for_A": 2,
+        "votes_for_B": 0
+    },
+    {
+        "A": "never eat your favourite food for the rest of your life",
+        "B": "only eat your favourite food?",
+        "id": 19,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "lose your long-term memory",
+        "B": "your short-term memory?",
+        "id": 20,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "dance every time you hear music",
+        "B": "sing along every time you hear a song?",
+        "id": 21,
+        "votes_for_A": 2,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wake up naked in a forest five miles from home",
+        "B": "in your underwear at work?",
+        "id": 22,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "accidentally like an old photo of your ex on Instagram",
+        "B": "accidentally send a sext to your mom?",
+        "id": 23,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "walk in on your parents having sex",
+        "B": "have them walk in on you?",
+        "id": 24,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "own a car with a horn that plays \"YMCA\"",
+        "B": "a car with your kid's favourite cartoon character painted on the side?",
+        "id": 25,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "sing your favourite song in front of a sold-out arena crowd",
+        "B": "in front of the original artist alone?",
+        "id": 26,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "look at your mom's internet search history",
+        "B": "your dad's search history?",
+        "id": 27,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wear a bib every time you eat out",
+        "B": "drink from a sippy cup every time you're at a bar?",
+        "id": 28,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have everyone you know be able to read your thoughts",
+        "B": "everyone you know to have access to your internet history?",
+        "id": 29,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wear a wedding dress/tuxedo every single day",
+        "B": "a bathing suit every single day?",
+        "id": 30,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to teleport anywhere",
+        "B": "be able to read minds?",
+        "id": 31,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "speak all languages",
+        "B": "have the ability to speak to all animals?",
+        "id": 32,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be an amazing artist but not be able to see any of the art you created",
+        "B": "be an amazing musician but not be able to hear any of the music you create?",
+        "id": 33,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "be the funniest person in every room",
+        "B": "the most intelligent person in every room?",
+        "id": 34,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to control your own emotions",
+        "B": "be able to control other people's emotions?",
+        "id": 35,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be the absolute best at something that no one takes seriously",
+        "B": "be average at something but well respected?",
+        "id": 36,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to talk your way out of any situation",
+        "B": "punch your way out of any situation?",
+        "id": 37,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have X-ray vision but only on people you find unattractive",
+        "B": "everyone else has X-ray vision but only of you?",
+        "id": 38,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "detect every lie you hear",
+        "B": "get away with every lie you tell?",
+        "id": 39,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be the world's fastest runner",
+        "B": "own the world's fastest car?",
+        "id": 40,
+        "votes_for_A": 2,
+        "votes_for_B": 1
+    },
+    {
+        "A": "always be 10 minutes late",
+        "B": "always be 20 minutes early?",
+        "id": 41,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "always get stuck in traffic",
+        "B": "always have a terribly slow internet connection?",
+        "id": 42,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wear jeans one size too small",
+        "B": "shoes two sizes too big?",
+        "id": 43,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "get a paper cut every time you turn a page",
+        "B": "bite your tongue every time you eat?",
+        "id": 44,
+        "votes_for_A": 2,
+        "votes_for_B": 0
+    },
+    {
+        "A": "never have to wait in line",
+        "B": "always have a parking spot?",
+        "id": 45,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be 11 feet tall",
+        "B": "nine inches tall?",
+        "id": 46,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "only be able to whisper",
+        "B": "only be able to shout?",
+        "id": 47,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "always have wet socks",
+        "B": "a small rock in your shoe?",
+        "id": 48,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "always have an annoying song stuck in your head",
+        "B": "always have an itch that you can't reach?",
+        "id": 49,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "never age physically",
+        "B": "never age mentally?",
+        "id": 50,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "die before",
+        "B": "after your partner?",
+        "id": 51,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have to kiss every person you meet",
+        "B": "never kiss your partner again?",
+        "id": 52,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "date someone who your family loves and your friends despise",
+        "B": "who your friends love and your family despises?",
+        "id": 53,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "your partner had a job that was life-threatening",
+        "B": "one that took up a lot of their time?",
+        "id": 54,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "win $50,000",
+        "B": "let your best friend win $500,000?",
+        "id": 55,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "save the lives of your three closest family members",
+        "B": "1,000 people you don't know?",
+        "id": 56,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "marry someone who does not love you",
+        "B": "marry someone you do not love?",
+        "id": 57,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be alone for the rest of your life",
+        "B": "always be surrounded by annoying people?",
+        "id": 58,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "nobody showed up to your wedding",
+        "B": "nobody showed up to your funeral?",
+        "id": 59,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "lose all of your friends but win the lottery",
+        "B": "keep your friends but you don't get a raise for the rest of your life?",
+        "id": 60,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be trapped on a desert island with someone who never speaks",
+        "B": "with someone who never shuts up?",
+        "id": 61,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be gassy on a first date",
+        "B": "on your wedding night?",
+        "id": 62,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "let your partner choose every movie you watch together",
+        "B": "pick every restaurant?",
+        "id": 63,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "find out your partner hates dogs",
+        "B": "that they cheated on their ex?",
+        "id": 64,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "date someone with their ex's name tattooed on their chest",
+        "B": "date someone whose ex lives next door?",
+        "id": 65,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have the ability to always pick the perfect gift for your partner",
+        "B": "your partner has the ability to always pick the perfect gift for you?",
+        "id": 66,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be criticized",
+        "B": "ignored?",
+        "id": 67,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "get stuck in an elevator with your ex",
+        "B": "with your partner and their ex?",
+        "id": 68,
+        "votes_for_A": 1,
+        "votes_for_B": 1
+    },
+    {
+        "A": "confess to cheating on your partner",
+        "B": "catch your partner cheating on you?",
+        "id": 69,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "feel like you know your partner better than anyone",
+        "B": "feel like they surprise you every day?",
+        "id": 70,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "get a face tattoo of your choosing",
+        "B": "a tattoo in a discreet area chosen by someone else?",
+        "id": 71,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "take amazing selfies but look terrible in all other photos",
+        "B": "be photogenic everywhere but in your selfies?",
+        "id": 72,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be handsome but stupid",
+        "B": "intelligent but ugly?",
+        "id": 73,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wear hideous glasses that are perfect for your eyesight",
+        "B": "flattering ones that make your vision a tiny bit blurry?",
+        "id": 74,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a mullet for a year",
+        "B": "completely bald for six months?",
+        "id": 75,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have out-of-control body hair",
+        "B": "a strong, pungent body odour?",
+        "id": 76,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have skin that changes colour based on your emotions",
+        "B": "tattoos that spontaneously appear all over your body depicting what you did yesterday?",
+        "id": 77,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "look ten years older from the neck up",
+        "B": "ten years older from the neck down?",
+        "id": 78,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a permanent uni-brow",
+        "B": "no eyebrows at all?",
+        "id": 79,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be played in a movie by Danny DeVito",
+        "B": "Danny Trejo?",
+        "id": 80,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have the ability to see 10 minutes into the future",
+        "B": "150 years into the future?",
+        "id": 81,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "know when you are going to die",
+        "B": "how you are going to die?",
+        "id": 82,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "travel to the past and see loved ones who've passed away",
+        "B": "travel to the future to meet your children",
+        "id": 83,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "die in 20 years with no regrets",
+        "B": "live to 100 with a lot of regrets?",
+        "id": 84,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "go back to age 5 with everything you know now",
+        "B": "know now everything your future self will learn?",
+        "id": 85,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "be in history books for something terrible",
+        "B": "be forgotten completely after you die?",
+        "id": 86,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have your first child when you're 18",
+        "B": "when you're 50?",
+        "id": 87,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be punished for a crime you didn't commit",
+        "B": "have someone else take credit for one of your major accomplishments?",
+        "id": 88,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have one wish granted today",
+        "B": "10 wishes granted 20 years from now?",
+        "id": 89,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be reincarnated as a fly",
+        "B": "just stop existing when you die?",
+        "id": 90,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "watch nothing but Hallmark Christmas movies",
+        "B": "nothing but horror movies?",
+        "id": 91,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "be hunted by a serial killer",
+        "B": "by police for a crime you didn't commit?",
+        "id": 92,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "own five dogs",
+        "B": "ten cats?",
+        "id": 93,
+        "votes_for_A": 1,
+        "votes_for_B": 3
+    },
+    {
+        "A": "buy all used underwear",
+        "B": "all used toothbrushes?",
+        "id": 94,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be in a fight club that meets once a month",
+        "B": "a book club that meets every day?",
+        "id": 95,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "find $100 floating in a public toilet",
+        "B": "$5 in your pocket?",
+        "id": 96,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "talk like Yoda",
+        "B": "breathe like Darth Vader?",
+        "id": 97,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be in a zombie apocalypse",
+        "B": "a robot apocalypse?",
+        "id": 98,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have to hunt and gather all of your food",
+        "B": "eat only McDonald's for every meal?",
+        "id": 99,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a South Park-themed wedding",
+        "B": "aÂ  Family Guy-themed funeral?",
+        "id": 100,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be stuck in a romantic comedy with your worst enemy",
+        "B": "in a horror movie with your best friend?",
+        "id": 101,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to speak every language in the world",
+        "B": "be able talk to animals?",
+        "id": 102,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "always feel hungry",
+        "B": "always feel tired?",
+        "id": 103,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have the ability to be invisible",
+        "B": "to read people's minds?",
+        "id": 104,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a knife when you need a spoon",
+        "B": "a spoon when you need a knife?",
+        "id": 105,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live with a barnyard of animals in your house",
+        "B": "live in the barn with the animals?",
+        "id": 106,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have two long, front teeth like a beaver",
+        "B": "no teeth at all?",
+        "id": 107,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have to use shrimp-flavoured toothpaste",
+        "B": "deodorant that smells like cheese?",
+        "id": 108,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "100 duck-sized elephants",
+        "B": "one elephant-sized duck?",
+        "id": 109,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Would you rather listen to an annoying laugh for a whole day",
+        "B": "get tickled for one hour?",
+        "id": 110,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "eat all your food with your hands",
+        "B": "use utensils with only your non-dominant hand?",
+        "id": 111,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be a kid your whole life",
+        "B": "an adult your whole life?",
+        "id": 112,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "a \"ding\" sound every time you wink",
+        "B": "a \"pow-pow\" sound every time you make a finger gun?",
+        "id": 113,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "speak in a baby voice for a day",
+        "B": "be spoken to in a baby voice for a day?",
+        "id": 114,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend the day wearing wet socks",
+        "B": "with a popcorn kernel stuck in your teeth?",
+        "id": 115,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "kiss everyone you meet",
+        "B": "never kiss anyone again?",
+        "id": 116,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a head the size of a small grapefruit",
+        "B": "the size of a giant watermelon?",
+        "id": 117,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be the cowboy riding the bull",
+        "B": "the clown who distracts it?",
+        "id": 118,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "be followed by a band wherever you go",
+        "B": "by someone narrating your life?",
+        "id": 119,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "get $1 every time you compliment a stranger",
+        "B": "$100 every time you insult a stranger?",
+        "id": 120,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "rather smell like garlic",
+        "B": "a wet dog?",
+        "id": 121,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "never get lost again",
+        "B": "never lose your balance again?",
+        "id": 122,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "give up showering",
+        "B": "internet for a month?",
+        "id": 123,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be a baby with the mind of an adult",
+        "B": "an adult with the mind of a baby?",
+        "id": 124,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have every meal you eat for the rest of your life be too spicy",
+        "B": "too sweet?",
+        "id": 125,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have horns",
+        "B": "a tail?",
+        "id": 126,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wrestle a gorilla",
+        "B": "two alligators?",
+        "id": 127,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a Texas accent and live in New York",
+        "B": "a New York accent and live in Texas?",
+        "id": 128,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have to always say everything that pops into your head",
+        "B": "never be able to say what you feel?",
+        "id": 129,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wear pants three sizes too big",
+        "B": "shoes three sizes too small?",
+        "id": 130,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "work as a bouncer at a trashy nightclub",
+        "B": "as a personal assistant to a high-maintenance celebrity?",
+        "id": 131,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "only speak in riddles",
+        "B": "only speak in rhyme?",
+        "id": 132,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend a week in the woods without a tent",
+        "B": "a night in a real haunted house?",
+        "id": 133,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a food fight",
+        "B": "a water balloon battle?",
+        "id": 134,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "meet Bigfoot",
+        "B": "an alien?",
+        "id": 135,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a uni-brow",
+        "B": "no eyebrows at all?",
+        "id": 136,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "always forget to buy one thing at the grocery store",
+        "B": "always buy five things you don't need?",
+        "id": 137,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "love Brussels sprouts",
+        "B": "hate ice cream?",
+        "id": 138,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be covered in fur",
+        "B": "covered in scales?",
+        "id": 139,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "need to sleep for 12 hours every day",
+        "B": "never sleep again?",
+        "id": 140,
+        "votes_for_A": 1,
+        "votes_for_B": 2
+    },
+    {
+        "A": "end war",
+        "B": "poverty?",
+        "id": 141,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to forget your worst memory",
+        "B": "remember your best memory better?",
+        "id": 142,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "stay young physically",
+        "B": "mentally?",
+        "id": 143,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have more time",
+        "B": "more money?",
+        "id": 144,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live forever",
+        "B": "die at a normal age?",
+        "id": 145,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be personally fulfilled",
+        "B": "professionally fulfilled?",
+        "id": 146,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "know the date of your death",
+        "B": "the cause of your death?",
+        "id": 147,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "be around negative loved ones",
+        "B": "positive strangers?",
+        "id": 148,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be really beautiful",
+        "B": "really smart?",
+        "id": 149,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live ten years longer with regrets",
+        "B": "die ten years early with no regrets?",
+        "id": 150,
+        "votes_for_A": 2,
+        "votes_for_B": 1
+    },
+    {
+        "A": "visit the past",
+        "B": "travel into the future?",
+        "id": 151,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "fulfill your biggest wish",
+        "B": "resolve your biggest regret?",
+        "id": 152,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a terrible memory",
+        "B": "absolutely no common sense?",
+        "id": 153,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be the boss of a failing company",
+        "B": "an entry-level employee at a successful one?",
+        "id": 154,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "always be stressed",
+        "B": "sad?",
+        "id": 155,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "pause this time in your life",
+        "B": "fast forward through it?",
+        "id": 156,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be the only one laughing at someone",
+        "B": "the only one being laughed at?",
+        "id": 157,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "face punishment for a crime",
+        "B": "try to hide it and get away?",
+        "id": 158,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live in a world without music",
+        "B": "one without colours?",
+        "id": 159,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "live a dangerous and exciting life",
+        "B": "a safe and boring one?",
+        "id": 160,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be more patient",
+        "B": "more confident?",
+        "id": 161,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "earn a ton of money doing work you hate",
+        "B": "a little money doing work you love?",
+        "id": 162,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "get rid of 99% of the world's population",
+        "B": "make extinct 99% of all living creatures?",
+        "id": 163,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "drop a bad habit",
+        "B": "gain a good one?",
+        "id": 164,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live 200 years in the past",
+        "B": "200 years in the future?",
+        "id": 165,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have no emotions",
+        "B": "feel every single emotion incredibly intensely?",
+        "id": 166,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "solve world hunger",
+        "B": "cure cancer?",
+        "id": 167,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live in a mountain cabin with no human contact",
+        "B": "a big city studio apartment with three roommates?",
+        "id": 168,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "give up social media",
+        "B": "be an influencer?",
+        "id": 169,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "trust everyone always",
+        "B": "never trust anyone ever?",
+        "id": 170,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have unlimited respect",
+        "B": "unlimited power?",
+        "id": 171,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be obscenely wealthy and very unhealthy",
+        "B": "in perfect health and penniless?",
+        "id": 172,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live an ordinary life",
+        "B": "stand out and be considered a freak?",
+        "id": 173,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "believe in something that no one else does",
+        "B": "know a secret you could never share?",
+        "id": 174,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "never feel physical pain",
+        "B": "never feel emotional pain?",
+        "id": 175,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "get rich in a way that disappoints your loved ones",
+        "B": "make just enough money to live?",
+        "id": 176,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be un-housed",
+        "B": "in prison?",
+        "id": 177,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be stuck on an island for eternity alone",
+        "B": "with someone you hate?",
+        "id": 178,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "never get angry",
+        "B": "never be envious?",
+        "id": 179,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "never leave the country",
+        "B": "leave and never come back?",
+        "id": 180,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "lose your sense of smell",
+        "B": "your sense of taste?",
+        "id": 181,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have the hiccups forever",
+        "B": "always feel as though you're about to sneeze?",
+        "id": 182,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be forced to listen to the \"Barney\" theme song",
+        "B": "someone slurp soup for 24 hours straight?",
+        "id": 183,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live one life for 1,000 years",
+        "B": "10 lives for 100 years each?",
+        "id": 184,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have to dress fancy",
+        "B": "in sweats, no matter the situation, for the rest of your life?",
+        "id": 185,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "give away all of your money",
+        "B": "all of your belongings?",
+        "id": 186,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "erase all of your most embarrassing moments from everyone's memories",
+        "B": "erase them from your own memory?",
+        "id": 187,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "work cleaning up toxic waste",
+        "B": "as a mortician's assistant?",
+        "id": 188,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "know what your pets think of you",
+        "B": "never hear them speak?",
+        "id": 189,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live under a sky with no clouds",
+        "B": "no stars?",
+        "id": 190,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wear a Dracula cape everywhere you go for a month",
+        "B": "a pirate eye patch?",
+        "id": 191,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "not shower for a week",
+        "B": "3 times a day for a week?",
+        "id": 192,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be stuck in a zombie apocalypse",
+        "B": "an alien invasion?",
+        "id": 193,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wear really ugly glasses that are the right prescription",
+        "B": "ones that look great but are just slightly blurry?",
+        "id": 194,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "begin every sentence with \"Hey jerk face,\"",
+        "B": "end every sentence with \"Haha, I was just kidding\"?",
+        "id": 195,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "never be able to close your eyes",
+        "B": "never be able to close your mouth?",
+        "id": 196,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have an extra toe",
+        "B": "an extra finger?",
+        "id": 197,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "relive the same day over and over for a year",
+        "B": "lose a year of your life?",
+        "id": 198,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "ruin the surprise for a surprise party",
+        "B": "show up in costume to a black tie event?",
+        "id": 199,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "eat old, mystery leftovers in your fridge",
+        "B": "a total stranger's leftovers?",
+        "id": 200,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be half your height",
+        "B": "double your weight?",
+        "id": 201,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be a regular person",
+        "B": "an immortal dog?",
+        "id": 202,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "find gum stuck in your hair",
+        "B": "a huge spider?",
+        "id": 203,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be in jail for five years",
+        "B": "be in a coma for a decade?",
+        "id": 204,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "babysit a crying baby for a day",
+        "B": "turn into a crying baby for an hour?",
+        "id": 205,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be followed everywhere by someone playing the flute",
+        "B": "be surprised every day by someone playing a tuba?",
+        "id": 206,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live in an underground bunker for the rest of your life",
+        "B": "in a tree house for the rest of your life?",
+        "id": 207,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live your life over as the opposite gender",
+        "B": "start your life over as a kid again?",
+        "id": 208,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have terribly chapped lips",
+        "B": "scratchy, dry eyes?",
+        "id": 209,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "fight 1,000 ant-sized polar bears",
+        "B": "one polar bear-sized ant?",
+        "id": 210,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have no elbows",
+        "B": "no knees?",
+        "id": 211,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to read minds",
+        "B": "move objects with your mind?",
+        "id": 212,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a dog with a baby's face",
+        "B": "a baby with a dog's face?",
+        "id": 213,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "get a paper cut whenever you read a book",
+        "B": "bite your tongue at every meal?",
+        "id": 214,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be seated on an airplane between a couple that's arguing",
+        "B": "next to a crying baby?",
+        "id": 215,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be the smartest person in a world full of stupid people",
+        "B": "the stupidest person in a world full of smart people?",
+        "id": 216,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be naked at work for an hour",
+        "B": "be dropped off naked a mile from your house?",
+        "id": 217,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a bed that's half the length",
+        "B": "half the width of your current bed?",
+        "id": 218,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be a happy idiot",
+        "B": "a miserable genius?",
+        "id": 219,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be itchy",
+        "B": "sticky forever?",
+        "id": 220,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be a leader",
+        "B": "a follower?",
+        "id": 221,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wear a swimsuit in winter",
+        "B": "a snowsuit in summer?",
+        "id": 222,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have your own robot",
+        "B": "a jet-pack?",
+        "id": 223,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be a great artist",
+        "B": "a renowned scientist?",
+        "id": 224,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a flying magic carpet",
+        "B": "a see-through submarine?",
+        "id": 225,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "create a new holiday",
+        "B": "create a new language?",
+        "id": 226,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "lick a trash can",
+        "B": "the bathroom floor?",
+        "id": 227,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have four arms",
+        "B": "four legs?",
+        "id": 228,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live 100 years in the past",
+        "B": "100 years in the future?",
+        "id": 229,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be the smartest person in the world",
+        "B": "the best athlete ever?",
+        "id": 230,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend all of your money on fun experiences",
+        "B": "on cool things?",
+        "id": 231,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "get brain freeze from ice cream",
+        "B": "burn your mouth on hot food?",
+        "id": 232,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "fly to Mars",
+        "B": "visit the depths of the ocean?",
+        "id": 233,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Would you rather be able to breathe fire",
+        "B": "breathe underwater?",
+        "id": 234,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "cheat on a test and have nobody find out",
+        "B": "be accused of cheating on a test when you didn't?",
+        "id": 235,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "ask for help",
+        "B": "figure it out on your own?",
+        "id": 236,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be the worst player on a winning team",
+        "B": "the best player on a losing team?",
+        "id": 237,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "drink melted ice-cream",
+        "B": "eat cold fries?",
+        "id": 238,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "always have to shout whenever you talk",
+        "B": "whisper?",
+        "id": 239,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "ride an elephant",
+        "B": "a camel across the country?",
+        "id": 240,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "meet someone famous from history",
+        "B": "meet someone famous from a book?",
+        "id": 241,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "have goosebumps for a day",
+        "B": "butterflies in your stomach for a day?",
+        "id": 242,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "meet Santa Claus",
+        "B": "Harry Potter?",
+        "id": 243,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be very strong",
+        "B": "very fast?",
+        "id": 244,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to slide down rainbows",
+        "B": "jump on clouds?",
+        "id": 245,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a hook for a hand",
+        "B": "a peg for a leg?",
+        "id": 246,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to control water",
+        "B": "fire?",
+        "id": 247,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live in the North Pole",
+        "B": "the South Pole?",
+        "id": 248,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have five good friends",
+        "B": "one best friend?",
+        "id": 249,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have really tiny hands",
+        "B": "really huge feet?",
+        "id": 250,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have binoculars for eyes and be able to see really far away",
+        "B": "have microscopes for eyes and be able to really see close-up?",
+        "id": 251,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "eat an insect",
+        "B": "eat a dirt-covered chocolate?",
+        "id": 252,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wake up early every morning",
+        "B": "stay up late every night?",
+        "id": 253,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wear clown shoes every day",
+        "B": "a clown nose every day?",
+        "id": 254,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to talk to ghosts",
+        "B": "travel through time?",
+        "id": 255,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "turn into your mom",
+        "B": "your dad for the day?",
+        "id": 256,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "give up listening to music",
+        "B": "watching movies?",
+        "id": 257,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be the youngest child",
+        "B": "the oldest child?",
+        "id": 258,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "your S.O. read your diary from when you were a teen",
+        "B": "your texts about them to your friends?",
+        "id": 259,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have kids",
+        "B": "travel the globe?",
+        "id": 260,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "know when you are going to die",
+        "B": "your partner is going to die?",
+        "id": 261,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "marry someone you just met",
+        "B": "marry someone you've known for forever but have no romantic feelings for?",
+        "id": 262,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "your S.O. be best friends with your ex",
+        "B": "best friends with their ex?",
+        "id": 263,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "find true love",
+        "B": "be fabulously rich?",
+        "id": 264,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "your spouse dislike all of your friends",
+        "B": "all of your friends dislike your spouse?",
+        "id": 265,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "outlive your S.O.",
+        "B": "have your S.O. outlive you?",
+        "id": 266,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a house cleaner every week",
+        "B": "a masseuse once a month?",
+        "id": 267,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "your partner always be late",
+        "B": "always be early?",
+        "id": 268,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a dozen kids",
+        "B": "no kids?",
+        "id": 269,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "date someone with a difficult ex",
+        "B": "someone with difficult parents?",
+        "id": 270,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "argue all night to resolve a conflict",
+        "B": "end the argument unresolved before bed?",
+        "id": 271,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "get stuck in an elevator with your ex",
+        "B": "your S.O.'s ex?",
+        "id": 272,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "have to plan every single moment",
+        "B": "live absolutely spontaneously and never plan anything?",
+        "id": 273,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "date someone who likes to go out every night",
+        "B": "someone who likes to stay home every night?",
+        "id": 274,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "discover that your partner hates animals",
+        "B": "that they cheated on their ex?",
+        "id": 275,
+        "votes_for_A": 0,
+        "votes_for_B": 2
+    },
+    {
+        "A": "your best friend",
+        "B": "your boss falls in love with you?",
+        "id": 276,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "date someone who is direct but offensive sometimes",
+        "B": "extremely shy and never speaks their mind?",
+        "id": 277,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a spouse that chews loudly",
+        "B": "spits when they talk?",
+        "id": 278,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be in a relationship where you challenge each other",
+        "B": "one in which you always agree?",
+        "id": 279,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "your spouse earn more money than you",
+        "B": "you earn more money than your spouse?",
+        "id": 280,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a partner with bad breath",
+        "B": "body odour?",
+        "id": 281,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "save all of your money for life",
+        "B": "spend it and live broke?",
+        "id": 282,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have your heart broken",
+        "B": "break someone's heart?",
+        "id": 283,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "your spouse be attracted to your soul",
+        "B": "your body?",
+        "id": 284,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be vegan",
+        "B": "gluten-free?",
+        "id": 285,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be in a relationship where you love them more",
+        "B": "they love you more?",
+        "id": 286,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "share a toothbrush with your partner",
+        "B": "have to wear their underwear?",
+        "id": 287,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "date someone older than you",
+        "B": "someone younger than you?",
+        "id": 288,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "your parents arrange your marriage",
+        "B": "marry your most recent ex?",
+        "id": 289,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "accidentally send a sexy text to an in-law",
+        "B": "your boss?",
+        "id": 290,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "know all of your spouse's secrets",
+        "B": "none of them?",
+        "id": 291,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "ell your partner a truth you know would hurt",
+        "B": "hurt your partner's feelings by not telling?",
+        "id": 292,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be with a super possessive partner",
+        "B": "a very distant one?",
+        "id": 293,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "your partner be a great cook and messy around the house",
+        "B": "an awful cook but very neat?",
+        "id": 294,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "go back in time to meet your ancestors",
+        "B": "go into the future to meet your great-grandchildren?",
+        "id": 295,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have your dream job and be unable to retire for 30 years",
+        "B": "have a terrible job but get to retire in 10 years?",
+        "id": 296,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "meet the love of your life in high school",
+        "B": "at the age of 30?",
+        "id": 297,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have smelly feet",
+        "B": "bad breath?",
+        "id": 298,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "communicate telepathically",
+        "B": "know every single language on the planet?",
+        "id": 299,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "run into an alien",
+        "B": "Big Foot?",
+        "id": 300,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "uncontrollably break into song",
+        "B": "unexpectedly lose your voice?",
+        "id": 301,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "bounce off of every surface you touch",
+        "B": "never be able to jump again?",
+        "id": 302,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a one-minute conversation with your past self",
+        "B": "your future self?",
+        "id": 303,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be constantly sticky",
+        "B": "constantly itchy?",
+        "id": 304,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "know what your pets think of you",
+        "B": "never hear them speak?",
+        "id": 305,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "shout all of the time",
+        "B": "only be able to whisper?",
+        "id": 306,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be a member of the Kardashian family",
+        "B": "a member of the Obama family?",
+        "id": 307,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "look like a fish",
+        "B": "smell like a fish?",
+        "id": 308,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be YouTube famous",
+        "B": "TikTok famous?",
+        "id": 309,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be hopelessly lost in an old town",
+        "B": "lost in the forest?",
+        "id": 310,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be chased through a forest by a zombie",
+        "B": "by a lion?",
+        "id": 311,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have only seven fingers",
+        "B": "only seven toes?",
+        "id": 312,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have everything you eat be too sweet",
+        "B": "not sweet enough forever?",
+        "id": 313,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "switch your body with your ex",
+        "B": "switch your body with your grandma?",
+        "id": 314,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "only watch one single movie for the rest of your life",
+        "B": "only eat the same food for the rest of your life?",
+        "id": 315,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have tons of mediocre friends",
+        "B": "one really loyal dog?",
+        "id": 316,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "eat only burgers for a week",
+        "B": "only ice cream for a week?",
+        "id": 317,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have the superpowers of Iron man",
+        "B": "Batman?",
+        "id": 318,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live in a world where it constantly snows",
+        "B": "always rains?",
+        "id": 319,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to control fire",
+        "B": "control water?",
+        "id": 320,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live in a world without music",
+        "B": "a world without movies?",
+        "id": 321,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be stuck as a character in Friends",
+        "B": "in Breaking Bad?",
+        "id": 322,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be covered in hair",
+        "B": "have no hair at all?",
+        "id": 323,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "eat cold pizza",
+        "B": "hot cereal for breakfast?",
+        "id": 324,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "not brush your teeth for a week",
+        "B": "not take a shower for two weeks?",
+        "id": 325,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a photographic memory",
+        "B": "perfect pitch?",
+        "id": 326,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be on a dating show",
+        "B": "a survival show?",
+        "id": 327,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have your least favourite song played on a constant loop",
+        "B": "never listen to music again?",
+        "id": 328,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "always be under dressed",
+        "B": "always be overdressed?",
+        "id": 329,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to teleport",
+        "B": "have a private plane?",
+        "id": 330,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be too hot",
+        "B": "too cold?",
+        "id": 331,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be remembered in history books for doing something terrible",
+        "B": "be completely forgotten after you die?",
+        "id": 332,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be a famous artist",
+        "B": "a famous athlete?",
+        "id": 333,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "discover a new planet",
+        "B": "find sunken treasure?",
+        "id": 334,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to do any magic occasionally",
+        "B": "have the powers of one superhero all the time?",
+        "id": 335,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "live on a boat",
+        "B": "in a tree-house?",
+        "id": 336,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have super weird dreams forever",
+        "B": "never dream again?",
+        "id": 337,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "everything you doodled became real",
+        "B": "be able to read peopleç—´ minds?",
+        "id": 338,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wear the same colour every day for a year",
+        "B": "wear the same hairstyle forever?",
+        "id": 339,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wear heels at the beach",
+        "B": "sandals at a muddy outdoor music festival?",
+        "id": 340,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend the rest of your life trapped inside",
+        "B": "trapped outside?",
+        "id": 341,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "give up breakfast",
+        "B": "dinner?",
+        "id": 342,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend a full day sitting",
+        "B": "standing?",
+        "id": 343,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live one 1,000-year life",
+        "B": "10 100-year lives?",
+        "id": 344,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "give up the internet",
+        "B": "your pet?",
+        "id": 345,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "make a movie about your most embarrassing moment",
+        "B": "publish your diary?",
+        "id": 346,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "have your hand stuck in a jar",
+        "B": "get your head stuck in a bucket?",
+        "id": 347,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be really fast",
+        "B": "ultra strong?",
+        "id": 348,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be more attractive",
+        "B": "more intelligent?",
+        "id": 349,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a fancy night out",
+        "B": "a movie night at home?",
+        "id": 350,
+        "votes_for_A": 0,
+        "votes_for_B": 2
+    },
+    {
+        "A": "be with the same person for most of your life",
+        "B": "many different people?",
+        "id": 351,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "give the perfect gift",
+        "B": "receive it?",
+        "id": 352,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "go on the best ever once",
+        "B": "a bunch of better-than-average dates?",
+        "id": 353,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "celebrate lots of little relationship milestones",
+        "B": "just one big one every year?",
+        "id": 354,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "only be able to text",
+        "B": "call me for the rest of your life?",
+        "id": 355,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be serenaded by me",
+        "B": "your favourite musician?",
+        "id": 356,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wear my underwear",
+        "B": "go commando?",
+        "id": 357,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be constantly surprised",
+        "B": "always know what's coming?",
+        "id": 358,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "go on a romantic and relaxing vacation",
+        "B": "a non stop adventure?",
+        "id": 359,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "your mind stay young forever",
+        "B": "your body?",
+        "id": 360,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend your free time with a loved one",
+        "B": "alone?",
+        "id": 361,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend time with older",
+        "B": "younger people?",
+        "id": 362,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "receive flowers",
+        "B": "chocolate?",
+        "id": 363,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have people come to you for practical",
+        "B": "sage advice?",
+        "id": 364,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be an animal",
+        "B": "an insect?",
+        "id": 365,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "plan a wedding",
+        "B": "a giant birthday party?",
+        "id": 366,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have someone make you your favourite meal",
+        "B": "go out to a new restaurant?",
+        "id": 367,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be the loudest",
+        "B": "quietest person in the room?",
+        "id": 368,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "workout with your partner at the gym",
+        "B": "go for a jog on your own?",
+        "id": 369,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "always be late",
+        "B": "always be too early?",
+        "id": 370,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be an accomplished writer",
+        "B": "speaker?",
+        "id": 371,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "forget the worst moment of your life",
+        "B": "remember the best moment of your life?",
+        "id": 372,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be 15 for the rest of your life",
+        "B": "65?",
+        "id": 373,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "get a kiss every day",
+        "B": "a hug every day?",
+        "id": 374,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have your heart broken",
+        "B": "break someone else's heart?",
+        "id": 375,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have all the money you could desire",
+        "B": "all the love you could desire?",
+        "id": 376,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be long distance for a year",
+        "B": "spend a month not talking at all?",
+        "id": 377,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "separate bedrooms with your partner",
+        "B": "share a bedroom?",
+        "id": 378,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "fulfill your biggest wish",
+        "B": "resolve your biggest regret?",
+        "id": 379,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "marry the person of your dreams",
+        "B": "have the career of your dreams?",
+        "id": 380,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "feel like you know your partner better than anyone",
+        "B": "feel like they make you happier every day?",
+        "id": 381,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "receive money",
+        "B": "a gift made by hand?",
+        "id": 382,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "know how you die",
+        "B": "when you die?",
+        "id": 383,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live in a big city",
+        "B": "a small town?",
+        "id": 384,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "give up social media",
+        "B": "be an influencer?",
+        "id": 385,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "explore the deep sea",
+        "B": "outer space?",
+        "id": 386,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "lose all of the money you earned this year",
+        "B": "lose all of the memories you made this year?",
+        "id": 387,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "ask for help",
+        "B": "figure it out on your own?",
+        "id": 388,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "believe in fate",
+        "B": "coincidence?",
+        "id": 389,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "your partner have an annoying best friend",
+        "B": "an intimidating ex?",
+        "id": 390,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "vacation at the same beautiful beach every year",
+        "B": "visit a new unknown place every year?",
+        "id": 391,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a water fight",
+        "B": "a food fight with your partner?",
+        "id": 392,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "travel anywhere you wanted for the rest of your life for free",
+        "B": "buy your dream house for free?",
+        "id": 393,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be with someone who hates your favourite foods",
+        "B": "hates your pet?",
+        "id": 394,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "trust everyone without a thought",
+        "B": "have a hard time trusting people?",
+        "id": 395,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "your partner could read your mind when you wanted something",
+        "B": "gave you a compliment every day?",
+        "id": 396,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to fly",
+        "B": "be able to breathe underwater?",
+        "id": 397,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "your crush be able to read your mind",
+        "B": "have access to your internet history?",
+        "id": 398,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "swim in the ocean at night knowing a shark could be nearby",
+        "B": "spend the night in a house you believed was haunted?",
+        "id": 399,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have six months of spring",
+        "B": "six months of summer?",
+        "id": 400,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend a bunch of money on your wedding",
+        "B": "on your honeymoon? (Or would you rather just have the money to spend on yourself, because who needs to get married?)",
+        "id": 401,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "let a spider climb over you",
+        "B": "let a snake slither across you?",
+        "id": 402,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "go a year without desserts",
+        "B": "have to eat a spoonful of wasabi every single day?",
+        "id": 403,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have to pass out at 9:30 pm every night",
+        "B": "fall asleep at 3:30 am every night (no in-between)?",
+        "id": 404,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be brought back as a dog",
+        "B": "as a cat in your next life?",
+        "id": 405,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a photographic memory",
+        "B": "the ability to read minds?",
+        "id": 406,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have breakfast for dinner",
+        "B": "dinner for breakfast?",
+        "id": 407,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "travel only by train",
+        "B": "only by boat?",
+        "id": 408,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "watch only scary movies",
+        "B": "only rom-coms for the rest of your life?",
+        "id": 409,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live solo on an uninhabited island",
+        "B": "live in a city apartment with six roomies and one bathroom?",
+        "id": 410,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "sing well and dance poorly",
+        "B": "sing poorly and dance well?",
+        "id": 411,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to take back anything you say",
+        "B": "listen in on every conversation that about you?",
+        "id": 412,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be an extra in an acclaimed, Oscar-winning movie",
+        "B": "star in a so-bad-it-good flick?",
+        "id": 413,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have to give up coffee",
+        "B": "give up pizza for a year?",
+        "id": 414,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live in a ritzy hotel",
+        "B": "live in a cabin in the woods?",
+        "id": 415,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "be known for always being honest",
+        "B": "always being kind?",
+        "id": 416,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have to sleep for 15 hours a day",
+        "B": "only be able to sleep two hours a night?",
+        "id": 417,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "only be able to listen to the same song",
+        "B": "only be able to watch the same movie for the rest of your life?",
+        "id": 418,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have to publicly speak every day",
+        "B": "get a visible tattoo you really hated?",
+        "id": 419,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a pool in your backyard",
+        "B": "live next to the ocean?",
+        "id": 420,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have to post everything in your search history right now",
+        "B": "post the names of everyone you've ever had a crush on?",
+        "id": 421,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have to go on 150 first dates in a year",
+        "B": "have to automatically spend a year with the next person you go on a date with?",
+        "id": 422,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have one best friend but no casual ones",
+        "B": "a big group of casual friends but no best friend?",
+        "id": 423,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "swim with eels",
+        "B": "sleep in a bat-filled cave?",
+        "id": 424,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "get a stomach bug mid-date with someone you have into",
+        "B": "have to go on a double date with your parents?",
+        "id": 425,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "the smartest",
+        "B": "the funniest person in the room?",
+        "id": 426,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be locked in a room with your ex",
+        "B": "go on a date with someone whose political beliefs are the total opposite of yours?",
+        "id": 427,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "be given a million dollars tomorrow",
+        "B": "10 million dollars 10 years from now?",
+        "id": 428,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "always have to tell the truth even when it is harsh",
+        "B": "be someone who compulsively lies?",
+        "id": 429,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "move to a new city every year",
+        "B": "only be able to live in your current city for the rest of your life?",
+        "id": 430,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "go on tour with your favourite artist",
+        "B": "be your favourite actor go-to red carpet date?",
+        "id": 431,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "show friends every photo in your phone",
+        "B": "read out loud every text you've sent this week?",
+        "id": 432,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "know how to scuba dive",
+        "B": "know how to fly a plane?",
+        "id": 433,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "take a vow of celibacy",
+        "B": "a vow of silence?",
+        "id": 434,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "watch the sunset",
+        "B": "the sunrise?",
+        "id": 435,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be locked overnight in an amusement park",
+        "B": "in a shopping mall?",
+        "id": 436,
+        "votes_for_A": 0,
+        "votes_for_B": 2
+    },
+    {
+        "A": "accidentally like your ex Instagram pic",
+        "B": "your current partner's ex Instagram pic?",
+        "id": 437,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "lose your sense of taste",
+        "B": "your sense of touch for a year?",
+        "id": 438,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "thrown a surprise birthday party",
+        "B": "plan your own party from start to finish?",
+        "id": 439,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "fly first class for one swanky vacation a year",
+        "B": "take several cheap trips and backpack?",
+        "id": 440,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "only cake",
+        "B": "only pie as your forever-birthday dessert?",
+        "id": 441,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "have one child",
+        "B": "six (no in-between)?",
+        "id": 442,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "work for a tough boss you like",
+        "B": "an easy boss who annoys you?",
+        "id": 443,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be unable to remember names",
+        "B": "unable to remember faces?",
+        "id": 444,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "go to your dream school and have to take out a bunch of student loans",
+        "B": "go to a decent-enough school you have a full ride to?",
+        "id": 445,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "date your favourite celebrity",
+        "B": "be best friends with them?",
+        "id": 446,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "publish a best-selling book",
+        "B": "direct an Oscar-winning movie?",
+        "id": 447,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be known for having the best music taste",
+        "B": "known for having the best fashion sense?",
+        "id": 448,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be overdressed",
+        "B": "under dressed in perpetuity (including when you're at home)?",
+        "id": 449,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend a month backpacking around Europe",
+        "B": "around Asia?",
+        "id": 450,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have an apartment in Paris",
+        "B": "Mexico City?",
+        "id": 451,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend the day reading",
+        "B": "hiking?",
+        "id": 452,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "your pet be able to talk to you",
+        "B": "your pet be able to live forever?",
+        "id": 453,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend every night on vacation out",
+        "B": "spend every day taking to new heights?",
+        "id": 454,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "Have to watch only Friends reruns",
+        "B": "only The Office reruns for the next year?",
+        "id": 455,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "have spinach stuck in your teeth all day without knowing",
+        "B": "toilet paper stuck to your shoe?",
+        "id": 456,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "go to a trivia night",
+        "B": "go to a stand-up show?",
+        "id": 457,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "walk the Great Wall of China",
+        "B": "climb the pyramids of Machu Picchu?",
+        "id": 458,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "go on a movie date",
+        "B": "a museum date?",
+        "id": 459,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a landing strip bikini wax",
+        "B": "go au naturel?",
+        "id": 460,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live alone",
+        "B": "live with friends?",
+        "id": 461,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "go back to your elementary school days",
+        "B": "jump forward to retired life? (If well, y'now, actually be able to retire?)",
+        "id": 462,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "eat only Cool Ranch Doritos",
+        "B": "eat only Cheetos?",
+        "id": 463,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be abducted by aliens",
+        "B": "stranded at sea?",
+        "id": 464,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend a rainy day trying out a new recipe",
+        "B": "marathoning movies?",
+        "id": 465,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend a winter in the snowiest reaches of Canada",
+        "B": "a summer in the driest part of the desert?",
+        "id": 466,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "only be able to read 19th century literature",
+        "B": "only be able to read comics?",
+        "id": 467,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live next door to your BFF",
+        "B": "live in different cities but have a perfect excuse to visit a cool place often?",
+        "id": 468,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Always have incredible comedic timing",
+        "B": "always have perfect dance moves for any music?",
+        "id": 469,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "only be able to take three-hour baths",
+        "B": "three-minute showers (no in-between)?",
+        "id": 470,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a messy house you're not responsible for cleaning",
+        "B": "have a super tidy house that only ever cleaned by you?",
+        "id": 471,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be 10 centimetres tall",
+        "B": "10 feet tall?",
+        "id": 472,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to paint really well",
+        "B": "be able to sculpt really well?",
+        "id": 473,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "furnish your dream home in antiques",
+        "B": "in cutting-edge, modern designs?",
+        "id": 474,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a mountain view",
+        "B": "lit-up skyscrapers outside your bedroom window?",
+        "id": 475,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be the plan maker in your friend group",
+        "B": "the jokester?",
+        "id": 476,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a tiny home with a big yard",
+        "B": "garden",
+        "id": 477,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be someone who compulsively laughs during sad moments",
+        "B": "who cries whenever someone makes a joke?",
+        "id": 478,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "get to go to outer space in your lifetime",
+        "B": "make it so billionaires would never be allowed to go to space?",
+        "id": 479,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "date someone who hates dogs",
+        "B": "who has seven dogs at all times?",
+        "id": 480,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be that couple known for constant PDA",
+        "B": "known for referring to each other by especially bad pet names?",
+        "id": 481,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "always feel like you're about to sneeze",
+        "B": "always have an itch just out of scratching reach?",
+        "id": 482,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "get back together with your ex",
+        "B": "have to listen to only Christmas songs for a year?",
+        "id": 483,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be covered in fur",
+        "B": "covered in scales?",
+        "id": 484,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "eat rotten eggs",
+        "B": "drink sour milk?",
+        "id": 485,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wear only sequined clothing",
+        "B": "only all-black clothing for a year?",
+        "id": 486,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "only be able to go on cruises",
+        "B": "only be able to go to Disney World for vacations?",
+        "id": 487,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "talk like Minnie Mouse when you're angry",
+        "B": "laugh just like Spongebob?",
+        "id": 488,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "only be able to speak in Twilight movie quotes",
+        "B": "only be able to speak in riddles?",
+        "id": 489,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "only be able to read romance novels",
+        "B": "only be able to watch reality dating shows for a year?",
+        "id": 490,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be in extreme heat in a snowsuit",
+        "B": "in extreme cold in a swimsuit?",
+        "id": 491,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to eat only Hawaiian pizza",
+        "B": "only pizza that doused in ranch?",
+        "id": 492,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "drink mayo through a straw",
+        "B": "slurp down your favourite soda like soup with a spoon?",
+        "id": 493,
+        "votes_for_A": 0,
+        "votes_for_B": 4
+    },
+    {
+        "A": "be trapped in a rom com with people you hate",
+        "B": "trapped in a horror movie with people you love?",
+        "id": 494,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "let your mother",
+        "B": "your ex create your next online dating profile?",
+        "id": 495,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "give up showering for a month",
+        "B": "give up the internet for a month?",
+        "id": 496,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "get the hiccups every other hour",
+        "B": "have to end every sentence you speak with do declare",
+        "id": 497,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have to read your middle school diary aloud to your friends",
+        "B": "watch only the National Treasure movies for the next year?",
+        "id": 498,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have teeth that are unusually pointy",
+        "B": "hair that always wet?",
+        "id": 499,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have an, ahem, bathroom emergency at a date house",
+        "B": "at your place of work?",
+        "id": 500,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "brush your teeth with mustard",
+        "B": "wash your hair with relish?",
+        "id": 501,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have to battle one bear-sized duck",
+        "B": "10 duck-sized bears?",
+        "id": 502,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "compulsively slip into a Batman voice whenever you're horny",
+        "B": "compulsively talk like Yoda in job interviews?",
+        "id": 503,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have only used toothbrushes",
+        "B": "used underwear at your disposal for a week?",
+        "id": 504,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "wear only gowns at home",
+        "B": "only sweats when out?",
+        "id": 505,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "always have damp socks",
+        "B": "always have a pebble in your shoe?",
+        "id": 506,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend a year in a convent",
+        "B": "a year living in a Las Vegas hotel-casino?",
+        "id": 507,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "eat BBQ for breakfast",
+        "B": "pastries for dinner?",
+        "id": 508,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "date someone with a visible tattoo of their ex name",
+        "B": "get a tattoo of your current partner name?",
+        "id": 509,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have hands for feet",
+        "B": "ears for elbows?",
+        "id": 510,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "know when you'll die",
+        "B": "how you'll die?",
+        "id": 511,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have more time",
+        "B": "more money?",
+        "id": 512,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "elope",
+        "B": "have 300 people at your wedding?",
+        "id": 513,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to predict the future",
+        "B": "forget anything you wanted from your past?",
+        "id": 514,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "have a pause button",
+        "B": "a rewind button on your life?",
+        "id": 515,
+        "votes_for_A": 1,
+        "votes_for_B": 1
+    },
+    {
+        "A": "have your dream home",
+        "B": "have the funds to travel as much as you wanted?",
+        "id": 516,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "never age",
+        "B": "never have to worry about money?",
+        "id": 517,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "be rich and hate what you do",
+        "B": "have just enough to make ends meet and love what you do?",
+        "id": 518,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "find true love",
+        "B": "find the thing in life youæ± e most talented at?",
+        "id": 519,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "travel back in time to meet your ancestors",
+        "B": "travel forward in time to meet your descendants?",
+        "id": 520,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "fall in love multiple times",
+        "B": "be able to love only one person?",
+        "id": 521,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "let bygones be bygones",
+        "B": "get the final word?",
+        "id": 522,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to speak any language you wanted",
+        "B": "play any instrument you wanted?",
+        "id": 523,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be CEO of your own company",
+        "B": "be paid a good salary to not have to work a ton in a less-senior role?",
+        "id": 524,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be remembered for the wrong reason",
+        "B": "completely forgotten?",
+        "id": 525,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "know for certain what happens when we die but not be able to tell others",
+        "B": "only be able to guess what happens just like everyone else?",
+        "id": 526,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "live near family",
+        "B": "be far from family but living exactly where you wanted?",
+        "id": 527,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be surrounded by other people 75% of the time",
+        "B": "alone 75% of the time?",
+        "id": 528,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be extremely talented at one thing only",
+        "B": "pretty decent at a large number of things?",
+        "id": 529,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to see other people futures",
+        "B": "be able to see your own?",
+        "id": 530,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be shown love in gifts",
+        "B": "through words of affirmation?",
+        "id": 531,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "win a top prize for a work of art you have created",
+        "B": "earn a patent for an invention you have made?",
+        "id": 532,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be endlessly lucky",
+        "B": "know you've earned everything you've achieved?",
+        "id": 533,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "find meaning in what you accomplish in life",
+        "B": "in who you surround yourself with?",
+        "id": 534,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "marry for love, for practical purposes",
+        "B": "never get married at all?",
+        "id": 535,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "be able to see 10 minutes into the future",
+        "B": "be able to erase three mistakes from your past?",
+        "id": 536,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "spend all the money you made in life",
+        "B": "have something to leave behind?",
+        "id": 537,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "never make a new friend but keep pouring into the ones you have now",
+        "B": "continue to expand your circle, knowing some friendships will fall off?",
+        "id": 538,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "dismantle systems of oppression from the inside",
+        "B": "the outside?",
+        "id": 539,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have $10million dollars right now",
+        "B": "$10,000 a day for the rest of your life but it doesn't start for 10 years",
+        "id": 540,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Live for 200 years in a safe prison with no possibility of escape",
+        "B": "Live absolutely free to do whatever you want but only get to live for 50 years",
+        "id": 541,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have squishy teeth",
+        "B": "A rock hard tongue",
+        "id": 542,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Never be able to bathe for the rest of your life",
+        "B": "Never be able to cut any hair on your body for the rest of your life",
+        "id": 543,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Live comfortably but humbly in a safe country today",
+        "B": "Live as a well loved and revered King/Queen/Ruler in Medieval times",
+        "id": 544,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Caught in a sandstorm in the Sahara Desert (extreme heat)",
+        "B": "Caught in a blizzard in Greenland (extreme cold)",
+        "id": 545,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have your home country be completely removed from Earth and everyone's memories except for your own",
+        "B": "Have your own self wiped from the memories of everyone on earth except for your own",
+        "id": 546,
+        "votes_for_A": 1,
+        "votes_for_B": 1
+    },
+    {
+        "A": "Have every song lyric you've ever loved show up on your skin like a tattoo",
+        "B": "Never be able to listen to music again",
+        "id": 547,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Would you rather have Darth Vader as a mentor",
+        "B": "Thanos as a mentor",
+        "id": 548,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Live with people who are mean and shitty to everyone but you",
+        "B": "Live next door to people who are mean and shitty but only to you",
+        "id": 549,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Live in the world of your favourite show/manga/book/movie etc..",
+        "B": "Have one random character from it summoned into this world",
+        "id": 550,
+        "votes_for_A": 1,
+        "votes_for_B": 1
+    },
+    {
+        "A": "Share a home with 10 dogs",
+        "B": "20 cats",
+        "id": 551,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be the best in the world at some thing that is entirely useless",
+        "B": "Slightly below average forever at one of the most useful skills in the world",
+        "id": 552,
+        "votes_for_A": 1,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Your pets turn into people",
+        "B": "Your friends turn into animals",
+        "id": 553,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have a friend who always rain-checks/postpones get together",
+        "B": "A friend who always shows up but falls asleep during every visit",
+        "id": 554,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have your dream job but live in a place you hate",
+        "B": "live in your dream home but have a job you hate",
+        "id": 555,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be transported back in time by 10 years",
+        "B": "transported forward in time by 10 years",
+        "id": 556,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Only be able to walk backwards",
+        "B": "only be able to breathe through your mouth",
+        "id": 557,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Work at McDonaldâ€™s for the rest of your life",
+        "B": "Have to eat something from McDonaldâ€™s every day for the rest of your life",
+        "id": 558,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Never be able to go out during the Day",
+        "B": "Never be able to go out during the night",
+        "id": 559,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be able to breathe underwater",
+        "B": "Be able to move through solid objects (like walls) at will",
+        "id": 560,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Never be able to poop at your own home again",
+        "B": "Every day one random stranger shows up to poop in your bathroom/toilet",
+        "id": 561,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Remain laying in bed fro 6 months straight",
+        "B": "Not be able to sit/lay down for 6 days straight",
+        "id": 562,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be transported into a rom-com with your worst enemies",
+        "B": "A horror movie with your best friends",
+        "id": 563,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have a soundtrack follow you through life",
+        "B": "Have a narrator voice follow you through life",
+        "id": 564,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Change one thing about your past",
+        "B": "Know one thing about your future",
+        "id": 565,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have a toe in place of a nose,",
+        "B": "ten noses in place of your toes",
+        "id": 566,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Never be able to shout/yell/call-out again",
+        "B": "Never be able to whisper/speak softly again",
+        "id": 567,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be blind unless you are looking at a screen (TV/PC etc)",
+        "B": "Be blind to every/any screen",
+        "id": 568,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have Telepathy but no control over it",
+        "B": "Telekinesis but unable to move your own body",
+        "id": 569,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be able to settle any argument between other people",
+        "B": "Nobody argues with you again (open conversations/meaningful debates if there is ever any disagreement)",
+        "id": 570,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Every business requires no shoes",
+        "B": "Every business requires no shoes",
+        "id": 571,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have the ability to fly like a bird",
+        "B": "Swim underwater like a fish",
+        "id": 572,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have a personal assistant for life",
+        "B": "Always have a personal trainer",
+        "id": 573,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be able to change your gender instantly",
+        "B": "Be able to change your age instantly",
+        "id": 574,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be able to control your own emotions and achieve inner peace",
+        "B": "Be able to influence the emotions of others and spread harmony",
+        "id": 575,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be the world greatest Chef",
+        "B": "Be the World greatest writer",
+        "id": 576,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be able to instantly learn any skill",
+        "B": "Be able to instantly erase any painful memory",
+        "id": 577,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Live in a world with talking animals",
+        "B": "Live in a world with advanced robots",
+        "id": 578,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have the power to instantly learn any form of art",
+        "B": "Have the power to instantly learn any form of science",
+        "id": 579,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Explore the deep ocean",
+        "B": "Explore outer space",
+        "id": 580,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Always have the best seat in any venue",
+        "B": "Always have the best view from any location",
+        "id": 581,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be able to create and manipulate holographic images",
+        "B": "Be able to control the weather with your thoughts",
+        "id": 582,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have the power to heal any physical ailment with a touch",
+        "B": "Have the power to soothe any emotional pain with a word",
+        "id": 583,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be a Duck",
+        "B": "Be a Robot",
+        "id": 584,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have the ability to control the weather",
+        "B": "Have the ability to control luck",
+        "id": 585,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Live in a world where everyone can read minds",
+        "B": "Live in a world where everyone can fly",
+        "id": 586,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be able to communicate with your past and future selves",
+        "B": "Be able to communicate with beings from other dimensions",
+        "id": 587,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be able to see in complete darkness",
+        "B": "Be able to see through solid objects",
+        "id": 588,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have the ability to control fire",
+        "B": "Have the ability to control water",
+        "id": 589,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be able to talk to animals",
+        "B": "Be able to talk to plants",
+        "id": 590,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Speak to the dead",
+        "B": "See into the future",
+        "id": 591,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Live in a world with magical creatures",
+        "B": "Live in a world with advanced alien civilizations",
+        "id": 592,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have the power to end all conflicts with a single gesture",
+        "B": "Have the power to end all suffering with a single word",
+        "id": 593,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have the power to restore forgotten historical artifacts",
+        "B": "Have the power to restore any damaged ecosystem",
+        "id": 594,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be able to manipulate dreams and nightmares",
+        "B": "Be able to control the flow of time",
+        "id": 595,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Always know when someone is being dishonest",
+        "B": "Always know when danger is approaching",
+        "id": 596,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be able to manipulate probability",
+        "B": "Be able to manipulate energy",
+        "id": 597,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Live in a world where it's always daytime",
+        "B": "Live in a world where it's always nighttime",
+        "id": 598,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Travel to space and visit other planets",
+        "B": "Explore the depths of the oceans and discover new species",
+        "id": 599,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Live in a world with time loops and alternate realities",
+        "B": "Live in a world with advanced cybernetics and augmentation",
+        "id": 600,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have the power to eliminate all pollution",
+        "B": "Have the power to cure all diseases/",
+        "id": 601,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Only eat sweet foods",
+        "B": "Only eat savoury foods",
+        "id": 602,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Never have to sleep",
+        "B": "Never have to eat",
+        "id": 603,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Always have the perfect outfit for any occasion",
+        "B": "Always have the perfect comeback in any argument",
+        "id": 604,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be forced to sing along to every song you hear",
+        "B": "Be forced to dance to every song you hear",
+        "id": 605,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Always have the ability to find beauty and meaning in everything",
+        "B": "Always have the ability to find solutions and resolutions",
+        "id": 606,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Wear a tuxedo t-shirt every day for a month",
+        "B": "Wear a tutu every day for a month",
+        "id": 607,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Always have the ability to find the best path forward",
+        "B": "Always have the ability to see the bigger picture",
+        "id": 608,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be able to double jump",
+        "B": "Be able to speed run",
+        "id": 609,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Have permanent Clown make-Up",
+        "B": "Permanent Clown Outfits",
+        "id": 610,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Sneeze Glitter",
+        "B": "Cough Confetti",
+        "id": 611,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Live without your phone",
+        "B": "Live without pinky toes",
+        "id": 612,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "Have your biggest question answered",
+        "B": "Master your biggest Interest",
+        "id": 613,
+        "votes_for_A": 0,
+        "votes_for_B": 1
+    },
+    {
+        "A": "Live in a world without books",
+        "B": "Live in a world without music",
+        "id": 614,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Change your appearance at will",
+        "B": "Teleport anywhere in the world instantly",
+        "id": 615,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Give up pasta forever",
+        "B": "Give up rice forever",
+        "id": 616,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be allergic to all meat and animal products",
+        "B": "Only be able to eat meat if it is raw",
+        "id": 617,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Be able to manipulate probability",
+        "B": "Be able to manipulate energy",
+        "id": 618,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Never be able to speak again",
+        "B": "Always have to say everything that is on your mind",
+        "id": 619,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Live for one year in Solitary Confinement",
+        "B": "Live for one year on a Deserted Island",
+        "id": 620,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Always have two people within 10 metres of you",
+        "B": "Never be able to go near anyone",
+        "id": 621,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    },
+    {
+        "A": "Live in a world where everyone's emotions are visible",
+        "B": "A world where everyone's thoughts are visible",
+        "id": 622,
+        "votes_for_A": 0,
+        "votes_for_B": 0
+    }
+]

@@ -1,0 +1,158 @@
+{
+  "users": [
+    {
+      "id": "269163491049340928",
+      "credits": 996,
+      "gamesPlayed": 1817,
+      "highestBet": 2600000000,
+      "highestWin": 2744536960,
+      "averageWin": 4548206.612548157,
+      "highestCredits": 5141882569
+    },
+    {
+      "id": "418931106289811466",
+      "credits": 5008260000,
+      "gamesPlayed": 687,
+      "highestCredits": 5102700000,
+      "highestBet": 600000000,
+      "highestWin": 3500000000,
+      "averageWin": 19500564.85443959
+    },
+    {
+      "id": "350356764396355594",
+      "credits": 0,
+      "gamesPlayed": 8
+    },
+    {
+      "id": "627888674758983692",
+      "credits": 495,
+      "gamesPlayed": 5
+    },
+    {
+      "id": "695476260440375347",
+      "credits": 7000,
+      "gamesPlayed": 18,
+      "highestCredits": 1000,
+      "highestBet": 1000,
+      "highestWin": 7000,
+      "averageWin": 410.8888888888889
+    },
+    {
+      "id": "407460965207113730",
+      "credits": 920,
+      "gamesPlayed": 8,
+      "highestCredits": 990,
+      "highestBet": 10,
+      "highestWin": 0,
+      "averageWin": 0
+    },
+    {
+      "id": "449281162636951552",
+      "credits": 7.97933689745199e+21,
+      "gamesPlayed": 2424,
+      "highestCredits": 7.97933989866973e+21,
+      "highestBet": 999999999999999,
+      "highestWin": 7.979258130401288e+21,
+      "averageWin": 3291863593503473000
+    },
+    {
+      "id": "561591392527450124",
+      "credits": 13839475932,
+      "gamesPlayed": 687,
+      "highestCredits": 14963764196,
+      "highestBet": 141237624,
+      "highestWin": 14123762450,
+      "averageWin": 33023602.882096075
+    },
+    {
+      "id": "505406311853326349",
+      "credits": 2650,
+      "gamesPlayed": 5,
+      "highestCredits": 2665,
+      "highestBet": 10,
+      "highestWin": 1690,
+      "averageWin": 338
+    },
+    {
+      "id": "782353680765550663",
+      "credits": 1044,
+      "gamesPlayed": 246,
+      "highestCredits": 1052,
+      "highestBet": 1,
+      "highestWin": 25,
+      "averageWin": 1.2154471544715437
+    },
+    {
+      "id": "291952281526730754",
+      "credits": 700,
+      "gamesPlayed": 68,
+      "highestCredits": 16400,
+      "highestBet": 3000,
+      "highestWin": 10000,
+      "averageWin": 451.4705882352943
+    },
+    {
+      "id": "584430381411991577",
+      "credits": 2372,
+      "gamesPlayed": 41,
+      "highestCredits": 2395,
+      "highestBet": 500,
+      "highestWin": 1500,
+      "averageWin": 68.8048780487805
+    },
+    {
+      "id": "205383008922894336",
+      "credits": -601,
+      "gamesPlayed": 59,
+      "highestCredits": 27917288416,
+      "highestBet": 27917288416,
+      "highestWin": 27917287411,
+      "averageWin": 473174351.23728836
+    },
+    {
+      "id": "794948223549702186",
+      "credits": 50,
+      "gamesPlayed": 2,
+      "highestCredits": 1050,
+      "highestBet": 1000,
+      "highestWin": 0,
+      "averageWin": 0
+    },
+    {
+      "id": "499253760560988171",
+      "credits": 990,
+      "gamesPlayed": 1,
+      "highestCredits": null,
+      "highestBet": null,
+      "highestWin": null,
+      "averageWin": null
+    },
+    {
+      "id": "1237587302310477990",
+      "credits": 0,
+      "gamesPlayed": 1,
+      "highestCredits": null,
+      "highestBet": null,
+      "highestWin": null,
+      "averageWin": null
+    },
+    {
+      "id": "768281350780223498",
+      "credits": 980,
+      "gamesPlayed": 1,
+      "highestCredits": null,
+      "highestBet": null,
+      "highestWin": null,
+      "averageWin": null
+    },
+    {
+      "id": "1202317489976115234",
+      "credits": 852,
+      "gamesPlayed": 41,
+      "highestCredits": 1068,
+      "highestBet": 50,
+      "highestWin": 65,
+      "averageWin": 3.4146341463414642
+    }
+  ]
+}
